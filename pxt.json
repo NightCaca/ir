@@ -1,7 +1,7 @@
 {
-    "name": "ir_remote",
-    "version": "1.0.12",
-    "description": "第三基地 红外遥控扩展",
+    "name": "ir",
+    "version": "0.0.0",
+    "description": "红外遥控",
     "dependencies": {
         "core": "*"
     },
@@ -21,5 +21,5 @@
         "test.ts"
     ],
     "public": true,
-    "installedVersion": "workspace:af63ec4b-2b71-4565-e69f-3ee150fbcb65"
+    "license": "MIT"
 }

@@ -1,13 +1,30 @@
-# 第三基地 红外遥控扩展
-Third Fundation IR Remote Extension
+# ir
 
-![remote control](./ir_remote.png?raw=true "remote control")
+红外遥控
 
-## License
+## Usage
 
-此项目使用 MIT 授权许可 - 更多细节查看 [LICENSE.md](LICENSE.md)
+This repository contains a MakeCode extension. To use it in MakeCode,
+
+* open https://makecode.microbit.org/
+* click on **New Project**
+* click on **Extensions** under the gearwheel menu
+* search for the URL of this repository
+
+## Collaborators
+
+You can invite users to become collaborators to this repository. This will allow multiple users to work on the same project at the same time.
+[Learn more...](https://help.github.com/en/articles/inviting-collaborators-to-a-personal-repository)
+
+To edit this repository in MakeCode,
+
+* open https://makecode.microbit.org/
+* click on **Import** then click on **Import URL**
+* paste the repository URL and click import
 
 ## Supported targets
 
 * for PXT/microbit
+* for PXT/microbit
 (The metadata above is needed for package search.)
+
