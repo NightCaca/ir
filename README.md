@@ -1,6 +1,6 @@
 # ir
 
-红外遥控
+Infrared Remote Control
 
 ## Usage
 

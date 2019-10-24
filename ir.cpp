@@ -6,27 +6,48 @@ using namespace pxt;
 typedef vector<Action> vA;
 
 enum class RemoteButton {
-      CH_MINUS = 0x45,
-	  CH = 0x46,
-	  CH_Add = 0x47,
-	  PREV = 0x44,
-	  PLAY = 0x43,
-	  NUM_200 = 0xd,
-	  NEXT = 0x40,
-	  NUM_100 = 0x19,
-	  Minus = 0x7,
-	  Add = 0x15,
-	  EQ = 0x9,
-	  NUM0 = 0x16,
-	  NUM1 = 0xc,
-	  NUM2 = 0x18,
-	  NUM3 = 0x5e,
-	  NUM4 = 0x8,
-	  NUM5 = 0x1c,
-	  NUM6 = 0x5a,
-	  NUM7 = 0x42,
-	  NUM8 = 0x52,
-	  NUM9 = 0x4A,
+    //% block="CHMinus"
+    CHMinus = 0x45,
+    //% block="CH"
+    CH = 0x46,
+    //% block="CHPlus"
+    CHPlus = 0x47,
+    //% block="PREV"
+    PREV = 0x44,
+    //% block="NEXT"
+    NEXT = 0x40,
+    //% block="PLAYORPAUSE"
+    PLAYORPAUSE = 0x43,
+    //% block="VOLMinus"
+    VOLMinus = 0x07,
+    //% block="VOLPlus"
+    VOLPlus = 0x15,
+    //% block="EQ"
+    EQ = 0x09,
+    //% block="ONEHUNDREDPLUS"
+    ONEHUNDREDPLUS = 0x19,
+    //% block="TWOHUNDREDPLUS"
+    TWOHUNDREDPLUS = 0x0D,
+    //% block="NUM0"
+    NUM0 = 0x16,
+    //% block="NUM1"
+    NUM1 = 0x0C,
+    //% block="NUM2"
+    NUM2 = 0x18,
+    //% block="NUM3"
+    NUM3 = 0x5E,
+    //% block="NUM4"
+    NUM4 = 0x10,
+    //% block="NUM5"
+    NUM5 = 0x08,
+    //% block="NUM6"
+    NUM6 = 0x1C,
+    //% block="NUM7"
+    NUM7 = 0x42,
+    //% block="NUM8"
+    NUM8 = 0x52,
+    //% block="NUM9"
+    NUM9 = 0x4A,
 };
 
 enum class Pins{
