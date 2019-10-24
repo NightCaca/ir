@@ -37,11 +37,11 @@ enum class RemoteButton {
     //% block="NUM3"
     NUM3 = 0x5E,
     //% block="NUM4"
-    NUM4 = 0x10,
+    NUM4 = 0x08,
     //% block="NUM5"
-    NUM5 = 0x08,
+    NUM5 = 0x1C,
     //% block="NUM6"
-    NUM6 = 0x1C,
+    NUM6 = 0x5A,
     //% block="NUM7"
     NUM7 = 0x42,
     //% block="NUM8"

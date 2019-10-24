@@ -1,6 +1,6 @@
 {
-    "name": "ir",
-    "version": "1.1.1",
+    "name": "IR",
+    "version": "0.0.0",
     "description": "Infrared Remote Control",
     "dependencies": {
         "core": "*"

@@ -1,4 +1,4 @@
-# ir
+# IR
 
 Infrared Remote Control
 
