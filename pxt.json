@@ -1,6 +1,6 @@
 {
     "name": "ir",
-    "version": "0.0.0",
+    "version": "1.0.14",
     "description": "红外遥控",
     "dependencies": {
         "core": "*"
